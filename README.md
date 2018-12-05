@@ -1,4 +1,4 @@
-# WebGL Interactive Graphics
+# Interactive Graphics
 Interactive Graphics projects using WebGL.
 
 ### How to run
